@@ -29,7 +29,7 @@ const Bento = {
   tools: [React, Node, Vue],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
+                        coorganizer: "BestiaisMarketing",
                         speaker:  ["Portuguese", "English", "French", "Spanish"],
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and JavaScript"
