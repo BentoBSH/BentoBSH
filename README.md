@@ -27,8 +27,7 @@ const Bento = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS],
   tools: [React, Node, Vue],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
+  projects: {
                         coorganizer: "BestiaisMarketing",
                         speaker:  ["Portuguese", "English", "French", "Spanish"],
                       },
