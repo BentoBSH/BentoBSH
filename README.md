@@ -25,18 +25,17 @@
 ```javascript
 const Bento = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
-  tools: [React, Node, Vue],
+  code: [HTML, CSS, Javascript, Python],
+  tools: [ReactJS, Node],
   projects: {
                         coorganizer: "BestiaisMarketing",
                         speaker:  ["Portuguese", "English", "French", "Spanish"],
                       },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and JavaScript"
 }
 ```
 
 ## 💬 Ask me about
-- Frontend web development (Vue.js, React.js,  Node)
+- Frontend web development (React.js,  Node)
 - Design 
 
 ## 📅 Hobbies
@@ -49,7 +48,7 @@ const Bento = {
 - Cm Piscinas [Website] - Side project
 - Rosman [Website] - Side project
 
-## 📚 Learning
+## 📚 Always Learning
 - React.js 
 - Node.js 
 
