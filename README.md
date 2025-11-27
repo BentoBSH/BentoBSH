@@ -2,10 +2,10 @@
 <h3 align="center">A programmer</h3>
 
 
-
+<!-- This content will not appear in the rendered Markdown
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=bentobsh" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bentobsh&layout=compact&langs_count=8&card_width=320" />
 </a>
