@@ -11,7 +11,7 @@
 </a>
     
 <div style="display: inline_block"><br>
-  <a href="https://instagram.com/bento.s.henriques/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/bentoshenriques/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:bentobsh@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bentoshenriques" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a>////////////////////////////////////////</a>
@@ -26,11 +26,11 @@
 const Bento = {
   pronouns: "he" | "him",
   code: [HTML, CSS, Javascript, Python],
-  tools: [ReactJS, Node],
+  main_tools: [ReactJS, Node],
   projects: {
-                        coorganizer: "BestiaisMarketing",
-                        speaker:  ["Portuguese", "English", "French", "Spanish"],
-                      },
+      main: "Rosman.ao; CMpiscinas.com; BestiaisMarketing",
+      speaker:  ["Portuguese", "English", "French", "Spanish?"],
+    },
 }
 ```
 
