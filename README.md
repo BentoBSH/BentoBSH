@@ -28,7 +28,7 @@ const Bento = {
   code: [HTML, CSS, Javascript, Python],
   main_tools: [ReactJS, Node],
   projects: {
-      main: "Rosman.ao; CMpiscinas.com; BestiaisMarketing",
+      main: "agendapenteados.com; Rosman.ao; CMpiscinas.com; BestiaisMarketing",
       speaker:  ["Portuguese", "English", "French", "Spanish?"],
     },
 }
@@ -45,6 +45,7 @@ const Bento = {
 - etc...
 
 ## 💻 Current projects
+- Agendapenteados.com 
 - Cm Piscinas [Website] - Side project
 - Rosman [Website] - Side project
 
